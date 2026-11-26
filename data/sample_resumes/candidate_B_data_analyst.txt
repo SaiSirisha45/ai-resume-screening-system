@@ -1,0 +1,5 @@
+Neha Kapoor (sample resume)
+Data Analyst
+Skills: SQL, Excel, Power BI, Tableau, Python, pandas, matplotlib, data analysis, data visualization, statistics, communication
+Experience: Created dashboards in Power BI and Tableau. Wrote SQL queries to analyse sales data and performed exploratory data analysis with Python and pandas. Presented insights to business stakeholders.
+Education: B.Sc in Statistics

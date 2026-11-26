@@ -1,0 +1,5 @@
+Ananya Rao (sample resume)
+Data Scientist
+Skills: Python, R, SQL, machine learning, deep learning, PyTorch, scikit-learn, pandas, numpy, statistics, NLP, computer vision, feature engineering, data visualization, tableau, Git, leadership, communication
+Experience: Trained machine learning and deep learning models with PyTorch and scikit-learn. Built NLP classifiers and performed feature engineering on large datasets. Led a team of three analysts.
+Education: M.Sc in Data Science

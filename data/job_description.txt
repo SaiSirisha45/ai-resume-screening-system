@@ -1,0 +1,15 @@
+Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to build and deploy NLP-based solutions.
+
+Responsibilities:
+- Develop machine learning and deep learning models using Python, scikit-learn and TensorFlow.
+- Build NLP pipelines and work with large language models (LLM) and RAG systems.
+- Perform data analysis, EDA and feature engineering with pandas and numpy.
+- Query data with SQL and present results using data visualization tools.
+- Deploy applications with Streamlit or Flask and manage code with Git and GitHub.
+
+Requirements:
+- Bachelor's degree in Computer Science or a related field.
+- Strong Python and SQL skills, and hands-on experience with machine learning and NLP.
+- Good communication skills and ability to work in a team.

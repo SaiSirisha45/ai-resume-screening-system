@@ -1,0 +1,5 @@
+Rohan Verma (sample resume)
+Full Stack Developer
+Skills: JavaScript, React, node.js, HTML, CSS, MongoDB, REST API, Git, GitHub, Docker, agile
+Experience: Built responsive web applications with React and Node.js. Designed REST APIs, managed MongoDB databases and containerised services with Docker.
+Education: B.Tech in Information Technology

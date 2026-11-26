@@ -1,0 +1,55 @@
+python
+sql
+r
+java
+javascript
+c++
+html
+css
+react
+node.js
+machine learning
+deep learning
+nlp
+natural language processing
+computer vision
+llm
+rag
+tensorflow
+pytorch
+keras
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+eda
+data analysis
+data visualization
+statistics
+feature engineering
+tableau
+power bi
+excel
+mysql
+postgresql
+mongodb
+spark
+hadoop
+aws
+azure
+gcp
+docker
+kubernetes
+git
+github
+linux
+ci/cd
+flask
+django
+fastapi
+streamlit
+rest api
+agile
+communication
+leadership

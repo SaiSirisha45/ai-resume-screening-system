@@ -1,0 +1,5 @@
+Aarav Mehta (sample resume)
+Machine Learning Engineer
+Skills: Python, SQL, machine learning, deep learning, NLP, LLM, RAG, TensorFlow, scikit-learn, pandas, numpy, Streamlit, Flask, Git, GitHub, communication
+Experience: Built NLP pipelines and a RAG chatbot using large language models. Developed deep learning models with TensorFlow and deployed them with Flask and Streamlit. Performed EDA and feature engineering with pandas and numpy.
+Education: B.Tech in Computer Science

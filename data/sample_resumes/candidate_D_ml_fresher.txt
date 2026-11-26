@@ -1,0 +1,5 @@
+Priya Nair (sample resume)
+Machine Learning Intern
+Skills: Python, SQL, machine learning, scikit-learn, pandas, numpy, matplotlib, seaborn, NLP, Streamlit, Git, GitHub, communication
+Experience: Developed regression models and an NLP based resume screening tool using TF-IDF. Performed EDA, feature engineering and hyperparameter tuning. Deployed a Streamlit app via GitHub.
+Education: B.Tech in Computer Science and Engineering

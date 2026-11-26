@@ -1,0 +1,5 @@
+Karthik Reddy (sample resume)
+DevOps Engineer
+Skills: Linux, AWS, Docker, Kubernetes, CI/CD, Git, GitHub, Python, azure, agile
+Experience: Automated deployment pipelines with CI/CD, managed Kubernetes clusters on AWS and wrote Python scripts for infrastructure tasks.
+Education: B.Tech in Computer Science
